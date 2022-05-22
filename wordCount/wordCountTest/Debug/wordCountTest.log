@@ -1,0 +1,3 @@
+﻿  wordCount.cpp
+C:\Users\xiaoduan\Lgit\wordCountTest\wordCountTest\wordCount.cpp(26,17): warning C4018: “<”: 有符号/无符号不匹配
+  wordCountTest.vcxproj -> C:\Users\xiaoduan\Lgit\wordCountTest\Debug\wordCountTest.exe
